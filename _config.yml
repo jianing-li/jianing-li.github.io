@@ -86,7 +86,7 @@ author:
   location         : "Beijing, China"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=xrYnfwcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=xrYnfwcAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   #researchgate     :  "https://scholar.google.com/citations?hl=en&user=xrYnfwcAAAAJ"
   uri              :
