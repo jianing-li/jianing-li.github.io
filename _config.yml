@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jianing Li (李家宁)"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate at the Peking University"
+  bio              : "Ph.D candidate, Peking University"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  "https://scholar.google.com/citations?hl=en&user=xrYnfwcAAAAJ&view_op=list_works&sortby=pubdate"
+  researchgate     :  "https://scholar.google.com/citations?hl=en&user=xrYnfwcAAAAJ"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
