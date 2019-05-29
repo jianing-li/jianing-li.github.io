@@ -1,7 +1,6 @@
 # Authors
 
 Name Name:
-  title      : "bio-photo-2.jpg"
   name        : "Name Name"
   uri         : "http://name.com"
   email       : "name@name.com"
@@ -11,7 +10,6 @@ Name Name:
   google_plus : "Name"
 
 Name2 Name2:
-  avatar      : "pku-logo.png"
   name        : "Name2 Name2"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
