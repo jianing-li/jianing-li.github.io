@@ -10,11 +10,6 @@ location: "City, Country"
 
 Our paper "Spike Coding: Towards Lossy Compression for Dynamic Vision Sensor" has been accepted in the Data Compression Conference.
 
-Heading 1
+Abstract
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+<p><center>Dynamic vision sensor (DVS) as a bio-inspired camera, has shown great advantages in high dynamic range and high temporal resolution in vision tasks. However, how to compress asynchronous spikes meanwhile maintaining the analysis performance still remains open. To address this problem, we propose a lossy spike coding framework for DVS. In this framework, a distortion measurement method is proposed which takes into account the polarity, then several strategies are designed for lossy compression, including optimizing inter-cube prediction, empty mode and residual quantization. The experimental results demonstrate that our approach can significantly improve compressive performance while sustaining the classification accuracy.</center></p>
