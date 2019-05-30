@@ -18,7 +18,7 @@ My research is in computer vision and machine learning, with focuses in <a href=
 ## About me
 I was born in Guangshui, Hubei province, China. When I'm not doing research, I enjoying playing basketball, riding bicycle, keeping fit and reading literature.
 
-![Underwater_rugby_photo](/images/riding.png){:class="img-responsive"}
+![Underwater_rugby_photo](/images/riding.jpeg){:class="img-responsive"}
 <small><i>A riding journey from Chengdu to Lhasa about 2200km (The Potala Square, 2014).</i></small>
 
 
