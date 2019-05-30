@@ -13,4 +13,4 @@ I am a now Ph.D. candidate at the National Engineering Laboratory of Video Techn
 My research is in computer vision and machine learning, with focuses in <a href="https://github.com/uzh-rpg/event-based_vision_resources" target="_blank">event-based vision</a>, neuromorphic engineering and point proprocess learning theory.
 
 ![Underwater_rugby_photo](/images/event-based-vision.png){:class="img-responsive"}
-<small><i>Photo: Jianing Li .</i></small>
+<medium><i>Figure: Now, I focous on "how to find better representation for spatial-temporal events".</i></medium>
