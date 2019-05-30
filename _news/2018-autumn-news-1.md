@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Paper accepted in DCC 2019"
 collection: news
-type: "Undergraduate course"
+type: "DCC 2019"
 permalink: /news/2018-autumn-news-1
-venue: "University 1, Department"
+venue: "Utah, USA"
 date: 2018-12-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Our paper "Spike Coding: Towards Lossy Compression for Dynamic Vision Sensor" has been accepted in the Data Compression Conference.
 
 Heading 1
 ======
