@@ -213,7 +213,8 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      #type: teaching
+      type: news
     values:
       layout: single
       author_profile: true
@@ -240,7 +241,8 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      #type: talks
+      type: research
     values:
       layout: talk
       author_profile: true
