@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Jianing Li Commenced Ph.D. in Peking University"
 collection: news
-type: "Undergraduate course"
-permalink: /news/2014-spring-news-1
+type: "Workshop"
+permalink: /news/2017-autumn-news-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2017-09-01
 location: "City, Country"
 ---
 
