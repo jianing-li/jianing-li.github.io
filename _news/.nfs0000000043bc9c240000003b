@@ -4,7 +4,7 @@ collection: news
 type: "DCC 2019"
 permalink: /news/2018-autumn-news-1
 venue: "Utah, USA"
-date: 2018-12-01
+date: 2019-01-01
 location: "City, Country"
 ---
 
