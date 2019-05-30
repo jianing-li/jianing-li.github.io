@@ -22,5 +22,5 @@ I was born in Guangshui, Hubei province, China. When I'm not doing research, I e
 <small><i>A riding journey from Chengdu to Lhasa about 2200km (The Potala Square, 2014).</i></small>
 
 ## Awards
-<ul type="disc"> 2016 - Lixin Tang Scholarship (Oscar Award) in Chongqing University
+<ul type="disc"> <li>2016 - Lixin Tang Scholarship (Oscar Award) in Chongqing University</li> 
 
