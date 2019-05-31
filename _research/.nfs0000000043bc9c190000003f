@@ -1,7 +1,7 @@
 ---
-title: "Talk 1 on Better Input Representations for Event Cameras"
+title: "Talk on Better Input Representations for Event Cameras"
 collection: research
-type: "talk"
+type: "Talk"
 permalink: /research/2018-09-28-talk
 venue: "Multimedia Learning Group, Peking University"
 date: 2018-09-28
@@ -9,3 +9,5 @@ location: "Beijing, China"
 ---
 
 Talk <a href="https://jianing-li.github.io/files/How_to_find_better_input_representations_for_event_based_cameras_data.pdf" target="_blank">slides</a>.
+
+<b>Abstract.</b> Streams from event-based cameras are asynchronous and sparse point process, it imposes important challenges to signal processing methods. There is an urgent need to find better input representations for existing efficient computer vision algorithms. This talk will introduce the basic concepts in event-based cameras and provide an overview of recent researches that exploit spatial-temporal representations for event streams. In those works, event streams are converted into frames or time surfaces, not yet taking advantages of high temporal resolution. Indeed, event-based end-to-end learning strategies, including SNNs and CNNs, are expect to emerge and will have potentially a significant impact on some complex visual tasks, such as detection, tracking, or stereo vision. Finally, the talk will summarize how to better input representations and give some prospects for event-based vision.
