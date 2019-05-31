@@ -3,11 +3,14 @@ title: "Spike Coding: Towards Lossy Compression for Dynamic Vision Sensor"
 collection: publications
 permalink: /publication/2018-12-28-spike-coding
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-12-28
+date: 2019-03-25
 venue: 2019 Data Compression Conference (DCC)
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 citation: 
+header:
+teaser: spike_stream.png
 ---
+
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
