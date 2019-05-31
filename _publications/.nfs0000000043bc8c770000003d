@@ -7,8 +7,6 @@ date: 2019-03-25
 venue: Data Compression Conference (DCC)
 paperurl: 
 citation: 
-header:
-teaser: /images/spike_stream.png
 ---
 <a href="https://jianing-li.github.io/files/2019_dcc_spike_coding.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://jianing-li.github.io/files/2019_dcc_spike_coding_bibtex.txt" target="_blank"><b>BibTex</b></a>
