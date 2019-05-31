@@ -17,4 +17,4 @@ citation:
 
 <br />
 <b>Reference:</b>
-* Yihua Fu, Jianing Li, Siwei Dong, Yonghong Tian, Tiejun Huang, "Spike Coding: Towards Lossy Compression for Dynamic Vision Sensor", Data Compression Conference (DCC), 2019.
+* Yihua Fu, Jianing Li, Siwei Dong, Yonghong Tian, Tiejun Huang, "Spike Coding: Towards Lossy Compression for Dynamic Vision Sensor", Data Compression Conference (DCC), 2019. (<p style="font-weight:bold;">Co-first Author</p>)
