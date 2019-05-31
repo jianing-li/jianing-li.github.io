@@ -1,11 +1,11 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Talk 1 on Better Input Representations for Event Cameras"
 collection: research
-type: "research"
-permalink: /research/2012-03-01-research-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "talk"
+permalink: /research/2018-09-28-talk
+venue: "Multimedia Learning Group, Peking University"
+date: 2018-09-28
+location: "Beijing, China"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Talk <a href="https://jianing-li.github.io/files/How_to_find_better_input_representations_for_event_based_cameras_data.pdf" target="_blank">slides</a>.
