@@ -1,0 +1,7 @@
+@inproceedings{li2019event,
+	title={Event-based Vision Enhanced: a Joint Detection Framework in Autonomous Driving},
+	author={Li, Jianing and Dong, Siwei and Yu, Zhaofei and Tian, Yonghong and Huang, Tiejun},
+	booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+	year={2019},
+	organization={IEEE}
+}
