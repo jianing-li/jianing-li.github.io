@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-12-28-spike-coding
 excerpt: 
 date: 2019-03-25
-venue: 2019 Data Compression Conference (DCC)
+venue: Data Compression Conference (DCC)
 paperurl: 
 citation: 
 header:
