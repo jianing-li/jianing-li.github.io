@@ -1,7 +1,6 @@
-@InProceedings{Scheerlinck18accv,
-  author        = {Cedric Scheerlinck and Nick Barnes and Robert Mahony},
-  title         = {Continuous-time Intensity Estimation Using Event Cameras},
-  booktitle     = {Asian Conf. Comput. Vis. (ACCV)},
-  year          = {2018},
-  month         = {December}
+@inproceedings{fu2019spike,
+	title={Spike Coding: Towards Lossy Compression for Dynamic Vision Sensors},
+	author={Fu, Yihua and Li, Jianing and Dong, Siwei and Tian, Yonghong and Huang, Tiejun},
+	booktitle={2019 Data Compression Conference},
+	year={2019}
 }
