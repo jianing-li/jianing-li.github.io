@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-12-08-neuromorphic-vision
 excerpt: 
 date: 2019-12-08
-venue: sub to Chinese Journal of Computers
 paperurl:
 citation:
 ---
