@@ -2,6 +2,7 @@
 title: "Paper submitted in CJC 2019"
 collection: news
 permalink: /news/2019-autumn-news-1
+date: 2019-12-08
 ---
 Our paper "Recent Advances in Neuromorphic Vision Sensors: A Survey", sub to Chinese Journal of Computers" has been submitted in the Chinese Journal of Computers.
 <a href="https://jianing-li.github.io/files/2019_CJC-manuscript.pdf" target="_blank"><b>PDF</b></a>&emsp;
