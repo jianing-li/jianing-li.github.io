@@ -2,10 +2,6 @@
 title: "Recent Advances in Neuromorphic Vision Sensors: A Survey"
 collection: publications
 permalink: /publication/2019-12-08-neuromorphic-vision
-excerpt: 
-date: 2019-12-08
-paperurl:
-citation:
 ---
 <a href="https://jianing-li.github.io/files/2019_CJC-manuscript.pdf" target="_blank"><b>PDF</b></a>&emsp;
 
