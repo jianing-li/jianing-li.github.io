@@ -1,6 +1,8 @@
 ---
 title: "Paper submitted in CJC 2019"
 collection: news
+type: "CJC"
+venue: "A Survey"
 permalink: /news/2019-autumn-news-1
 date: 2019-12-08
 ---
