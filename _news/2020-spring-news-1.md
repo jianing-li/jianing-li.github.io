@@ -15,4 +15,4 @@ In this paper, the first part presents a comprehensive overview of the emerging 
 
 <br />
 <b>Reference:</b>
-* Jianing Li,  Yonghong Tian, "Recent Advances in Neuromorphic Vision Sensors: A Survey", Chinese Journal of Computers, 2020.
+* Jianing Li, and Yonghong Tian, "Recent Advances in Neuromorphic Vision Sensors: A Survey", Chinese Journal of Computers, 2020.
