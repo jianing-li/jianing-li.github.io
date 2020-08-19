@@ -12,4 +12,4 @@ citation:
 
 <br />
 <b>Reference:</b>
-* Lin Zhu, Siwei Dong, Jianing Li, Tiejun Huang and Yonghong Tian, "Retina-like Visual Image Reconstruction via Spiking Neural Model", CVPR, 2020.
+* Lin Zhu, Siwei Dong, Jianing Li, Yonghong Tian, and Yonghong Tian, "Retina-like Visual Image Reconstruction via Spiking Neural Model", CVPR, 2020.
