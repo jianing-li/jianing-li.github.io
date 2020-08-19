@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-04-29-neuromorphic-vision-survey
 excerpt: 
 date: 2020-04-29
-venue: Chinese Journal of Computers
+venue: Chinese Journal of Computers（计算机学报）
 paperurl:
 citation:
 ---
