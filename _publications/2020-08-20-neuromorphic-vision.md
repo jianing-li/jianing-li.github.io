@@ -3,7 +3,7 @@ title: "Recent Advances in Neuromorphic Vision Sensors: A Survey"
 collection: publications
 permalink: /publication/2020-08-20-neuromorphic-vision
 excerpt: 
-date: 2019-08-20
+date: 2020-08-20
 venue: Chinese Journal of Computers (计算机学报)
 paperurl: 
 citation: 

@@ -3,7 +3,7 @@ title: "Retina-like Visual Image Reconstruction via Spiking Neural Model"
 collection: publications
 permalink: /publication/2020-08-19-reconstruction
 excerpt: 
-date: 2019-08-19
+date: 2020-08-19
 venue: IEEE Conference on Computer Vision and Pattern Recognition (CVPR oral)
 paperurl: 
 citation: 
